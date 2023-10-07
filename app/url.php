@@ -1,0 +1,1 @@
+<?php $URL = "http://localhost/libreriagigis"; ?>
